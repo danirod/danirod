@@ -27,13 +27,13 @@ En internet, la gente también me conoce por ser la persona que está detrás de
 
 Tengo varios años de experiencia en desarrollo de aplicaciones web con tecnologías como JavaScript, Ruby y Python. En JavaScript, he trabajado con React y Vue y ahora estoy aprendiendo Svelte. Toqué Less cuando estuvo de moda, luego SCSS cuando también estuvo de moda, y ahora toco PostCSS porque está de moda. Juraría que en otra vida fui desarrollador Java. Aunque en general me gusta mantenerme fresco y al día así que estoy experimentando con otros lenguajes como Elixir, Go o Rust. Cuando nadie mira, sigo programando en C y en PHP.
 
-En temas de diseño gráfico y UX, este año he aprendido a utilizar Figma. Wow, es super revolucionario, así sí que da gusto crear cosas. Es lo que he utiliazado para diseñar desde cero la nueva versión de makigas.es, mi plataforma de cursos en línea. De hecho, el código fuente de la página web es abierto y lo puedes ver en GitHub.
+En temas de diseño gráfico y UX, este año he aprendido a utilizar Figma. Wow, es super revolucionario, así sí que da gusto crear cosas. Es lo que he utiliazado para diseñar desde cero [la nueva versión de makigas.es](https://makigas.es), mi plataforma de cursos en línea. De hecho, [el código fuente de la página web es abierto y lo puedes ver en GitHub](https://github.com/makigas/makigas.es).
 
 Me interesan:
 
 - Los sistemas de software fáciles de mantener y que están pensados también para facilitar la vida a quien los va a estar desarrollando.
 - Las interfaces de usuario intuitivas que hacen que los usuarios sientan satisfacción por los productos que están utilizando.
-- Crear entornos accesibles e inclusvios que sean fáciles de explorar y que permitan a los usuarios completar sus tareas o convertir con éxito.
+- Crear entornos accesibles e inclusivos que sean fáciles de explorar y que permitan a los usuarios completar sus tareas o convertir con éxito.
 
 ### Díselo con badges
 
@@ -92,6 +92,12 @@ He oído que te gustan las pegatinas:
 <table>
 <tr>
 <td>
+<a href="https://www.youtube.com/watch?v=pze2JJj82XA&list=PLTd5ehIj0goM-5mQxXLmCr5nHZX_yc2QT&index=1">
+<img src="https://i.ytimg.com/vi/pze2JJj82XA/mqdefault.jpg" alt="Tutorial de C"><br>
+<small>Tutorial de Svelte</small>
+</a>
+</td>
+<td>
 <a href="https://www.youtube.com/watch?v=eXnaVfIa5cM&list=PLTd5ehIj0goOAWdpCpghXiRCmEOrJJLEW&index=36">
 <img src="https://i.ytimg.com/vi/eXnaVfIa5cM/mqdefault.jpg" alt="Tutorial de C"><br>
 <small>Tutorial de C (temporada 4)</small>
@@ -101,12 +107,6 @@ He oído que te gustan las pegatinas:
 <a href="https://www.youtube.com/watch?v=ORUFii_Qsyg">
 <img src="https://i.ytimg.com/vi/ORUFii_Qsyg/mqdefault.jpg" alt="EditorConfig"><br>
 <small>EditorConfig</small>
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=dVaZg_ZTxHA">
-<img src="https://i.ytimg.com/vi/dVaZg_ZTxHA/mqdefault.jpg" alt="Instalar NetBeans"><br>
-<small>Instalar NetBeans</small>
 </a>
 </td>
 </tr>
