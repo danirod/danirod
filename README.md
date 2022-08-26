@@ -38,7 +38,7 @@ Me interesan:
 ### Díselo con badges
 
 Lenguajes:
-![TypeScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
 ![Ruby](https://img.shields.io/badge/Ruby-820C02?style=flat&logo=ruby)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
 ![Elixir](https://img.shields.io/badge/Elixir-674773?style=flat&logo=elixir)
