@@ -19,7 +19,7 @@ En internet, la gente también me conoce por ser la persona que está detrás de
 
 ### ➡️➡️➡️ Hey, esto es interesante ⬅️⬅️⬅️
 
-**A partir de septiembre estaré constituido como desarrollador de software independiente y estaré dispuesto a trabajar por convertir en realidad tu idea o la de tu equipo. Estaré disponible como desarrollador freelance o como contractor (externo) para tu proyecto. Aun queda un poco, pero si tienes muchas ganas y suficiente paciencia, [podemos ir hablándolo ya][ct].**
+**Aunque no lo parezca, estoy constituido ya como desarrollador de software independiente.** Puedo convertir tu idea o la de tu equipo en una realidad. Estoy disponible como desarrollador freelance o como contractor externo. Si quieres que lo hablemos, [contacta conmigo][ct] para que podamos hablar sobre proyectos, tiempos, plazos, presupuestos, disponibilidades...
 
 [ct]: https://danirod.es/contacto/
 
@@ -86,28 +86,3 @@ He oído que te gustan las pegatinas:
 ![Adidas](https://img.shields.io/badge/Adidas-black?style=flat&logo=adidas)
 ![Calistenia](https://img.shields.io/badge/Calistenia-darkgreen?style=flat)
 ![Running](https://img.shields.io/badge/Running-darkblue?style=flat)
-
-### Último contenido subido a YouTube
-
-<table>
-<tr>
-<td>
-<a href="https://www.youtube.com/watch?v=pze2JJj82XA&list=PLTd5ehIj0goM-5mQxXLmCr5nHZX_yc2QT&index=1">
-<img src="https://i.ytimg.com/vi/pze2JJj82XA/mqdefault.jpg" alt="Tutorial de C"><br>
-<small>Tutorial de Svelte</small>
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=eXnaVfIa5cM&list=PLTd5ehIj0goOAWdpCpghXiRCmEOrJJLEW&index=36">
-<img src="https://i.ytimg.com/vi/eXnaVfIa5cM/mqdefault.jpg" alt="Tutorial de C"><br>
-<small>Tutorial de C (temporada 4)</small>
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=ORUFii_Qsyg">
-<img src="https://i.ytimg.com/vi/ORUFii_Qsyg/mqdefault.jpg" alt="EditorConfig"><br>
-<small>EditorConfig</small>
-</a>
-</td>
-</tr>
-</table>
