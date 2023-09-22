@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> I like to use the "Mark as spam" button on my mail client, in order to reduce the trust of the sender domain. Researchers and marketing teams that scrap GitHub: you have been warned.
+
 ## Hola, me llamo Dani, pero la gente me suele llamar danirod
 
 ...e igual tiene que ver con que es el alias que uso como presencia en varias
