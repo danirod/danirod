@@ -5,7 +5,7 @@
 
 **Hi, I am Dani.**
 * I am a freelance software engineer. Interested in backends, but fullstack by accident.
-* Did you know that you can hire me? Check out [danirod.dev][ddev] for more information.
+* Did you know that you can hire me for your next project or idea? Check out [danirod.dev][ddev] for more information.
 * I have a blog / website at [danirod.es][danirod] where I want about things of my interest.
 * I also work as a content creator for my online projects: [makigas][makigas] and its side [YouTube channel][makigasyt].
 * You can find me on [LinkedIn][linkedin], [Stack Overflow][stackoverflow] and [Mastodon][mastodon].
@@ -19,6 +19,7 @@
 **Here are some of the repositories in this profile I think you will probably like.**
 * My [dotfiles][dotfiles], my [vimrc][vimrc] and my [Arch Linux install scripts][archinstall].
 * My [old x86 operating system][nativeos] and my [new x86-64 operating system][nuts].
+* Some of the code I've written in Go include [a timetracker for Redmine][redtime] and [a Twitch stream info editor][streamtitle].
 * That time when I wrote a [CHIP-8 emulator][chip8] and a [Game Boy ROM][minesweeper].
 * Or that time when [I made a game][rectball] in libGDX and published it on the [Google Play Store][rbplay].
 * Those other times where I participated in the libGDX Jam: [here][signal] and [here][axolotl].
@@ -36,9 +37,11 @@
 [minesweeper]: https://github.com/danirod-live/minesweeper-gb
 [nativeos]: https://github.com/danirod/nativeos
 [nuts]: https://github.com/danirod/nuts
-[rectball]: https://github.com/danirod/rectball
 [rbplay]: https://play.google.com/store/apps/details?id=es.danirod.rectball.android
+[rectball]: https://github.com/danirod/rectball
+[redtime]: https://github.com/danirod/redtime
 [signal]: https://github.com/danirod/thesignal
 [stackoverflow]: https://stackoverflow.com/users/2033517/danirod
+[streamtitle]: https://github.com/danirod/streamtitle
 [unocss]: http://unocss.dev/
 [vimrc]: https://github.com/danirod/vimrc
