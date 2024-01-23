@@ -1,5 +1,7 @@
 > [!IMPORTANT]
-> **I like to use the "Mark as spam" button on my mail client, in order to globally reduce the trust of the sender domain**. Researchers and marketing teams that scrap GitHub: you have been warned - you send me spam, I harm your business.
+> **I like to use the "Mark as spam" button on my mail client, in order to globally reduce the trust of the sender domain**.
+> 
+> Researchers and marketing teams that scrap GitHub: you have been warned - you send me spam, I harm your business.
 
 **Hi, I am Dani.**
 * I am a freelance software engineer. Interested in backends, but fullstack by accident.
